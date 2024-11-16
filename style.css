@@ -1,0 +1,95 @@
+body {
+
+    color:white ;
+    background:black;
+    margin: 0px;
+    margin-bottom: 100px;
+    
+    
+    }
+    header {
+    
+        border-bottom: solid 2px  #2fa1ff;
+    padding:20px ;
+    font-size: 35px;
+    color: #2fa1ff;
+    font-family: "Fugaz One", sans-serif;
+    }
+    
+    .chamada {
+    background:#565ed6;
+    padding-bottom: 80px;
+    padding-top:80px;
+    display: flex;
+    justify-content:center;
+    
+    
+    }
+    .chamada-texto{
+    
+    margin-right:5%;
+    font-family: "Fugaz One", sans-serif;
+    }
+    
+    h1{
+    font-size:40px;
+    
+    
+    
+    }
+    
+    p{
+    
+    font-size: 20px;
+    
+    }
+    
+    
+    img{
+    height: 250px;
+    
+    
+    
+    }
+    
+    .categoria-vídeos {
+    
+    display:flex;
+    overflow-x:auto;
+    gap:20px;
+    
+    
+    }
+    
+    .categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    }
+    
+    .categoria-vídeos img{
+    
+    opacity: 0.5;
+    
+    
+    }
+    
+    
+    .categoria-vídeos img:hover{
+    
+    opacity:1.0 ;
+    border: 1px solid red;
+    
+    
+    
+    
+    }
+       
+    h2{
+    color: #2fa1ff;
+    font-size: 30px;
+    
+    
+    
+    
+    }
